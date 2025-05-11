@@ -9,6 +9,9 @@ using namespace std;
 
 void fungsiMiftah() {
     cout << "Halo dari Miftah" << endl;
+
+void fungsiRaka() {
+    cout << "Halo dari Raka" << endl;
 }
 
 void kalkulatorKubus() {
@@ -169,6 +172,7 @@ prismaMenu:
 int main() {
     int pilihan;
     fungsiMiftah();
+    fungsiRaka();
 
 menuUtama:
     system("cls");
