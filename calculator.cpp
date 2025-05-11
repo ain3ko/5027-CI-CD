@@ -7,6 +7,10 @@ using namespace std;
     #define M_PI 3.14159265358979323846
 #endif
 
+void fungsiMiftah() {
+    cout << "Halo dari Miftah" << endl;
+}
+
 void kalkulatorKubus() {
     int s, pilihan;
     char kembali;
