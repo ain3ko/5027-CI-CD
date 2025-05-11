@@ -168,6 +168,7 @@ prismaMenu:
 
 int main() {
     int pilihan;
+    fungsiMiftah();
 
 menuUtama:
     system("cls");
